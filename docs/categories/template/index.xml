@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Template on Hugo-tufte Theme Example Site</title>
-    <link>https://github.com/shawnohare/hugo-tufte/categories/template/</link>
+    <link>https://noamross.github.io/newsite/categories/template/</link>
     <description>Recent content in Template on Hugo-tufte Theme Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 28 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/shawnohare/hugo-tufte/categories/template/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noamross.github.io/newsite/categories/template/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/old/</link>
+      <link>https://noamross.github.io/newsite/post/old/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/old/</guid>
+      <guid>https://noamross.github.io/newsite/post/old/</guid>
       <description>Sample Post 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     

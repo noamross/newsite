@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hugo-tufte Theme Example Site</title>
-    <link>https://github.com/shawnohare/hugo-tufte/post/</link>
+    <link>https://noamross.github.io/newsite/post/</link>
     <description>Recent content in Posts on Hugo-tufte Theme Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 Feb 2016 13:56:01 -0800</lastBuildDate>
     
-	<atom:link href="https://github.com/shawnohare/hugo-tufte/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noamross.github.io/newsite/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo-Tufte Features</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/tufte-features/</link>
+      <link>https://noamross.github.io/newsite/post/tufte-features/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/tufte-features/</guid>
+      <guid>https://noamross.github.io/newsite/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
 of this theme.  One of them is \( \LaTeX \) via MathJax.
 
@@ -50,10 +50,10 @@ Shawn O&amp;#39;Hare,
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://noamross.github.io/newsite/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://noamross.github.io/newsite/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -61,20 +61,20 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Hide Date</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/nodate/</link>
+      <link>https://noamross.github.io/newsite/post/nodate/</link>
       <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/nodate/</guid>
+      <guid>https://noamross.github.io/newsite/post/nodate/</guid>
       <description>Here is an example post where the date set, but hidden from display.
 Moreover, the reading time is also hidden.</description>
     </item>
     
     <item>
       <title>Blockquotes</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/blockquote/</link>
+      <link>https://noamross.github.io/newsite/post/blockquote/</link>
       <pubDate>Mon, 19 Jan 2015 23:57:58 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/blockquote/</guid>
+      <guid>https://noamross.github.io/newsite/post/blockquote/</guid>
       <description>&lt;p&gt;Below is a blockquote.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -91,10 +91,10 @@ id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
     
     <item>
       <title>Just another sample post</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/new/</link>
+      <link>https://noamross.github.io/newsite/post/new/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/new/</guid>
+      <guid>https://noamross.github.io/newsite/post/new/</guid>
       <description>First Heading Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, consequatur aspernatur omnis iste. Voluptates, id inventore ea natus ab sed amet ipsa ratione sunt dignissimos. Soluta illum aliquid repellendus recusandae.
 Sub Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, perferendis saepe voluptatem a nesciunt architecto voluptas deleniti dolor tempora quasi quidem odit rem fugit magnam minima quam dolores vel id?
 Conclusion Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
@@ -102,10 +102,10 @@ Conclusion Lorem ipsum dolor sit amet, consectetur adipisicing elit.</descriptio
     
     <item>
       <title>First Post</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/old/</link>
+      <link>https://noamross.github.io/newsite/post/old/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/old/</guid>
+      <guid>https://noamross.github.io/newsite/post/old/</guid>
       <description>Sample Post 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     

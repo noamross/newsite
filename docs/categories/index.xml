@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo-tufte Theme Example Site</title>
-    <link>https://github.com/shawnohare/hugo-tufte/categories/</link>
+    <link>https://noamross.github.io/newsite/categories/</link>
     <description>Recent content in Categories on Hugo-tufte Theme Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 28 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/shawnohare/hugo-tufte/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noamross.github.io/newsite/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Boring</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/boring/</link>
+      <link>https://noamross.github.io/newsite/categories/boring/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/boring/</guid>
+      <guid>https://noamross.github.io/newsite/categories/boring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fun</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/fun/</link>
+      <link>https://noamross.github.io/newsite/categories/fun/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/fun/</guid>
+      <guid>https://noamross.github.io/newsite/categories/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/hugo/</link>
+      <link>https://noamross.github.io/newsite/categories/hugo/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/hugo/</guid>
+      <guid>https://noamross.github.io/newsite/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Latex</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/latex/</link>
+      <link>https://noamross.github.io/newsite/categories/latex/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/latex/</guid>
+      <guid>https://noamross.github.io/newsite/categories/latex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mathjax</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/mathjax/</link>
+      <link>https://noamross.github.io/newsite/categories/mathjax/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/mathjax/</guid>
+      <guid>https://noamross.github.io/newsite/categories/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/r/</link>
+      <link>https://noamross.github.io/newsite/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/r/</guid>
+      <guid>https://noamross.github.io/newsite/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Template</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/template/</link>
+      <link>https://noamross.github.io/newsite/categories/template/</link>
       <pubDate>Fri, 28 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/template/</guid>
+      <guid>https://noamross.github.io/newsite/categories/template/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/test/</link>
+      <link>https://noamross.github.io/newsite/categories/test/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/test/</guid>
+      <guid>https://noamross.github.io/newsite/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tufte Css</title>
-      <link>https://github.com/shawnohare/hugo-tufte/categories/tufte-css/</link>
+      <link>https://noamross.github.io/newsite/categories/tufte-css/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/categories/tufte-css/</guid>
+      <guid>https://noamross.github.io/newsite/categories/tufte-css/</guid>
       <description></description>
     </item>
     

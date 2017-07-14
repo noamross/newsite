@@ -3,146 +3,146 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/tufte-features/</loc>
+    <loc>https://noamross.github.io/newsite/post/tufte-features/</loc>
     <lastmod>2016-02-20T13:56:01-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://noamross.github.io/newsite/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/nodate/</loc>
+    <loc>https://noamross.github.io/newsite/post/nodate/</loc>
     <lastmod>2015-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/blockquote/</loc>
+    <loc>https://noamross.github.io/newsite/post/blockquote/</loc>
     <lastmod>2015-01-19T23:57:58-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/new/</loc>
+    <loc>https://noamross.github.io/newsite/post/new/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/old/</loc>
+    <loc>https://noamross.github.io/newsite/post/old/</loc>
     <lastmod>2014-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/page/about/</loc>
+    <loc>https://noamross.github.io/newsite/page/about/</loc>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/boring/</loc>
-    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/</loc>
+    <loc>https://noamross.github.io/newsite/categories/boring/</loc>
     <lastmod>2014-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/fun/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/groups/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/hugo/</loc>
-    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/</loc>
-    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/latex/</loc>
-    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/mathjax/</loc>
-    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/post/</loc>
-    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/template/</loc>
+    <loc>https://noamross.github.io/newsite/categories/</loc>
     <lastmod>2014-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/test/</loc>
+    <loc>https://noamross.github.io/newsite/categories/fun/</loc>
     <lastmod>2014-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/shawnohare/hugo-tufte/categories/tufte-css/</loc>
+    <loc>https://noamross.github.io/newsite/groups/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/hugo/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/latex/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/mathjax/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/post/</loc>
+    <lastmod>2016-02-20T13:56:01-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/template/</loc>
+    <lastmod>2014-03-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/test/</loc>
+    <lastmod>2014-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://noamross.github.io/newsite/categories/tufte-css/</loc>
     <lastmod>2016-02-20T13:56:01-08:00</lastmod>
     <priority>0</priority>
   </url>

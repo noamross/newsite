@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathjax on Hugo-tufte Theme Example Site</title>
-    <link>https://github.com/shawnohare/hugo-tufte/categories/mathjax/</link>
+    <link>https://noamross.github.io/newsite/categories/mathjax/</link>
     <description>Recent content in Mathjax on Hugo-tufte Theme Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 Feb 2016 13:56:01 -0800</lastBuildDate>
     
-	<atom:link href="https://github.com/shawnohare/hugo-tufte/categories/mathjax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://noamross.github.io/newsite/categories/mathjax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo-Tufte Features</title>
-      <link>https://github.com/shawnohare/hugo-tufte/post/tufte-features/</link>
+      <link>https://noamross.github.io/newsite/post/tufte-features/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       
-      <guid>https://github.com/shawnohare/hugo-tufte/post/tufte-features/</guid>
+      <guid>https://noamross.github.io/newsite/post/tufte-features/</guid>
       <description>&lt;p&gt;This is a quick demonstration post.  It serves as an example of the features
 of this theme.  One of them is \( \LaTeX \) via MathJax.
 
